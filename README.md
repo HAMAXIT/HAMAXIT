@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey, I’m HAMAXIT
 
-<!--
-**HAMA4IT/HAMA4IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **systems**, **games**, and **ideas that probably shouldn’t work — but do**.
 
-Here are some ideas to get you started:
+I’m someone who likes breaking things down to first principles, then rebuilding them in weird but efficient ways. I'm intersted in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Game Development  
+- 🤖 AI & Experimental Architectures  
+- 🖥️ Cross-platform application development  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧩 CBM — Chunk-Based Model (AI Architecture)
+A modular AI design where:
+- Specialized **chunks** handle different domains (math, language, creativity, logic)
+- An **Agent model** interprets input and activates the right chunks
+- A **Compositor** merges outputs into a coherent response  
+
+> Think: AI as a team of specialists instead of one overloaded brain.
+
+---
+
+### 🖥️ Cross-Platform Media Manager (Avalonia UI + C#)
+A desktop-first application built with:
+- **Avalonia UI** (Windows / Linux / macOS)
+- Tabbed layouts & category panels
+- Tagging, and easy searching
+- built in players and viewers
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C, C#, C++
+- Python, MATLAB
+- Javascript, Typescript, HTML, CSS
+- SQL, MySQL
+
+**Frameworks / Tools**
+- Avalonia UI
+- .NET, ASP.NET
+- Unity
+- Git & GitHub
+
